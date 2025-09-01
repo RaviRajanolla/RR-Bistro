@@ -364,9 +364,22 @@ java -jar target/RRbistro1-0.0.1-SNAPSHOT.jar
 
 ---
 
-## 📄 License
+## 🌗 Preview
 
-This project is licensed under the [MIT License](./LICENSE) by Ravi Rajanolla.
+| Home (Light) | Home (Dark) |
+|--------------|-------------|
+| <img width="1923" height="4322" alt="HOME" src="https://github.com/user-attachments/assets/33e8ea64-43fa-4184-bb1d-5eb49b1abe0d" /> | <img width="1923" height="4322" alt="HomeDark" src="https://github.com/user-attachments/assets/66e2491e-99c4-4fe2-95e2-d4ea68d4b5ff" />|
 
+---
+
+| Food Menu (Light) | Food Menu (Dark) |
+|-------------------|-----------------|
+|  | ![Home Dark](./screenshots/homepage-dark.png) |
+
+---
+
+| Bar Menu (Light)  | Bar Menu (Dark) |
+|-------------------|-----------------|
+| ![Home Light](./screenshots/homepage-light.png) | ![Home Dark](./screenshots/homepage-dark.png) |
 
 ---
