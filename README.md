@@ -372,14 +372,86 @@ java -jar target/RRbistro1-0.0.1-SNAPSHOT.jar
 
 ---
 
-| Food Menu (Light) | Food Menu (Dark) |
-|-------------------|-----------------|
-|  | ![Home Dark](./screenshots/homepage-dark.png) |
+| Food Menu (Light) |
+|-------------------|
+<img width="1923" height="4353" alt="FOOD Menu2" src="https://github.com/user-attachments/assets/23bea02e-0d72-409a-afcc-a921643fc1d6" /> <img width="1885" height="5851" alt="FOOD Menu3" src="https://github.com/user-attachments/assets/15812d12-a1a3-4462-90d2-b4b791993436" /> <img width="1884" height="4828" alt="FOOD Menu5" src="https://github.com/user-attachments/assets/93259b45-d6a0-4e80-b384-e711da80d30c" /> <img width="1920" height="6025" alt="FOOD Menu6" src="https://github.com/user-attachments/assets/5afd1656-eee5-41d8-a654-e8b1b97c61b0" />
 
 ---
+|  Food Menu (Dark) |
+|-------------------|
+|<img width="1923" height="5114" alt="FoodDark1" src="https://github.com/user-attachments/assets/23542a1c-9261-40d1-9cc3-89087e173334" /><img width="1922" height="5165" alt="FoodDark2" src="https://github.com/user-attachments/assets/389e7c79-f99e-4450-9acf-2def0c1066aa" /><img width="1923" height="5564" alt="FoodDark3" src="https://github.com/user-attachments/assets/20c6c3e0-7c83-467d-aab1-4cc461689e29" /><img width="1923" height="5200" alt="FoodDark5" src="https://github.com/user-attachments/assets/cc56abbe-44a6-461d-a604-ac69f69b4b4e" />
+
+
+
 
 | Bar Menu (Light)  | Bar Menu (Dark) |
 |-------------------|-----------------|
 | ![Home Light](./screenshots/homepage-light.png) | ![Home Dark](./screenshots/homepage-dark.png) |
+
+---
+
+| Reserve Table (Light) | Reserve Table (Dark) |
+|-----------------------|----------------------|
+| <img width="1923" height="1439" alt="Reservation" src="https://github.com/user-attachments/assets/5dfcf787-fa8a-495a-89bf-c7d6d686775e" /> | <img width="1923" height="1439" alt="screencapture-localhost-5173-reservations-2025-09-05-13_22_16" src="https://github.com/user-attachments/assets/00cd4424-de12-46f2-93cd-72f111c94468" />|
+
+---
+|Reservation Confirmed (Light)  | Reservation Confirmed (Dark) |
+|-------------------------------|------------------------------|
+| <img width="1923" height="1439" alt="Reservation confirm" src="https://github.com/user-attachments/assets/2ff806a1-7822-4a77-920d-9b944bb27dee" /> | <img width="1923" height="1439" alt="screencapture-localhost-5173-reservations-2025-09-05-13_23_41" src="https://github.com/user-attachments/assets/e9daa314-6d99-4540-bfa9-087fb2dd35b5" />|
+
+---
+
+| Review (Light) | Review (Dark) |
+|----------------|---------------|
+| <img width="1923" height="1439" alt="Review" src="https://github.com/user-attachments/assets/88d617f3-e944-42b0-962a-6edb136fd317" /> | <img width="1923" height="1439" alt="screencapture-localhost-5173-reviews-2025-09-05-14_15_45" src="https://github.com/user-attachments/assets/46f0aed5-f943-4a4c-81e2-c302165c56bd" />|
+
+---
+
+
+| About (Light)  | About (Dark) |
+|-------------------|-----------------|
+| <img width="1923" height="4198" alt="About" src="https://github.com/user-attachments/assets/c9de65a3-cfaa-4f16-922b-e56857e072c9" />| <img width="1923" height="4198" alt="AboutDark" src="https://github.com/user-attachments/assets/c7429598-0f35-4830-bc0e-6f01a217b23a" />|
+
+---
+
+| Corporate (Light)  | Corporate (Dark) |
+|--------------------|------------------|
+| <img width="1923" height="4442" alt="Corporate" src="https://github.com/user-attachments/assets/866729f5-b8da-42ff-a949-576d3a1a8064" /> | <img width="1923" height="4442" alt="CorporateDark" src="https://github.com/user-attachments/assets/3c5861b0-5b75-483b-bfd9-117630e86109" />|
+
+---
+
+| Orders (Light)  | Orders (Dark) |
+|-----------------|---------------|
+| <img width="1923" height="2056" alt="Order" src="https://github.com/user-attachments/assets/d065c3d8-e0c9-4e9e-a497-d650a8365bbc" /> | <img width="1923" height="2498" alt="screencapture-localhost-5173-orders-2025-09-05-13_35_48" src="https://github.com/user-attachments/assets/8675038a-c2df-4b86-ad79-f82e07c8b141" />|
+
+---
+
+| Checkout (Light)  | Checkout (Dark) |
+|-------------------|-----------------|
+| <img width="1923" height="1439" alt="screencapture-localhost-5173-checkout-2025-09-05-13_39_29" src="https://github.com/user-attachments/assets/9e55b71a-e8aa-47fa-a8ab-67f9ff4ed44c" /> | <img width="1923" height="1439" alt="screencapture-localhost-5173-checkout-2025-09-05-13_38_18" src="https://github.com/user-attachments/assets/0a985bf9-d029-45cb-a3d5-ff1e60a18c0a" />|
+
+---
+
+| Order Confirmed (Light) | Order Confirmed (Dark) |
+|-------------------------|------------------------|
+|<img width="1923" height="1439" alt="Order Confirm" src="https://github.com/user-attachments/assets/bc406602-ad1d-4706-ad81-d3af515fc492" /> |<img width="1923" height="1439" alt="screencapture-localhost-5173-order-confirmation-2025-09-05-13_40_58 (1)" src="https://github.com/user-attachments/assets/30e9343c-3a3e-4319-bf1e-76b821ca0e4f" />|
+
+---
+
+| Admin Panel (Light) | Admin Panel (Dark) |
+|---------------------|--------------------|
+|<img width="1883" height="900" alt="image" src="https://github.com/user-attachments/assets/b7786c44-24e6-4551-8efa-c6b654868ead" /> | <img width="1920" height="880" alt="Screenshot 2025-09-05 135540" src="https://github.com/user-attachments/assets/5a63804f-57d6-4ade-846c-69d9a6f18f4a" />|
+
+---
+
+| Sign In (Light) | Sign In (Dark) |
+|-----------------|----------------|
+|<img width="1923" height="1439" alt="SignIn" src="https://github.com/user-attachments/assets/357e8b0a-1a6a-4fe0-886d-fdc5bde6f2a6" /> |<img width="1923" height="1439" alt="SignInDark" src="https://github.com/user-attachments/assets/91751a24-baba-4a04-b0b5-c2745ef5d225" />|
+
+---
+
+| Sign Up (Light) | Sign Up (Dark) |
+|-----------------|----------------|
+|<img width="1923" height="1439" alt="SignUp" src="https://github.com/user-attachments/assets/38733d9b-76de-440f-8349-45a3b6305a4d" />|<img width="1923" height="1439" alt="SignUpDark" src="https://github.com/user-attachments/assets/7db037ad-fde4-4c3a-90ee-c3400f518804" />|
 
 ---
