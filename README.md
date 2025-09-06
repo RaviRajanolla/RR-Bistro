@@ -366,28 +366,189 @@ java -jar target/RRbistro1-0.0.1-SNAPSHOT.jar
 
 ## 🌗 Preview
 
+The project supports **Light Mode** 🌞 and **Dark Mode** 🌙.  
+Below are side-by-side previews of the main pages.
+
+
 | Home (Light) | Home (Dark) |
 |--------------|-------------|
 | <img width="1923" height="4322" alt="HOME" src="https://github.com/user-attachments/assets/33e8ea64-43fa-4184-bb1d-5eb49b1abe0d" /> | <img width="1923" height="4322" alt="HomeDark" src="https://github.com/user-attachments/assets/66e2491e-99c4-4fe2-95e2-d4ea68d4b5ff" />|
 
 ---
 
-| Food Menu (Light) |
-|-------------------|
-<img width="1923" height="4353" alt="FOOD Menu2" src="https://github.com/user-attachments/assets/23bea02e-0d72-409a-afcc-a921643fc1d6" /> <img width="1885" height="5851" alt="FOOD Menu3" src="https://github.com/user-attachments/assets/15812d12-a1a3-4462-90d2-b4b791993436" /> <img width="1884" height="4828" alt="FOOD Menu5" src="https://github.com/user-attachments/assets/93259b45-d6a0-4e80-b384-e711da80d30c" /> <img width="1920" height="6025" alt="FOOD Menu6" src="https://github.com/user-attachments/assets/5afd1656-eee5-41d8-a654-e8b1b97c61b0" />
+## 🍴 Food Menu
+
+### 🥗 Starters
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="3470" alt="screencapture-localhost-5173-menu-2025-09-06-11_11_15" src="https://github.com/user-attachments/assets/99505bab-b76a-40c2-8276-70aee8ed7a42" /></td>
+    <td><img width="1923" height="3470" alt="screencapture-localhost-5173-menu-2025-09-06-11_13_17" src="https://github.com/user-attachments/assets/c6f4d193-c23d-4d9e-8131-f32521097122" /></td>
+  </tr>
+</table>
 
 ---
-|  Food Menu (Dark) |
-|-------------------|
-|<img width="1923" height="5114" alt="FoodDark1" src="https://github.com/user-attachments/assets/23542a1c-9261-40d1-9cc3-89087e173334" /><img width="1922" height="5165" alt="FoodDark2" src="https://github.com/user-attachments/assets/389e7c79-f99e-4450-9acf-2def0c1066aa" /><img width="1923" height="5564" alt="FoodDark3" src="https://github.com/user-attachments/assets/20c6c3e0-7c83-467d-aab1-4cc461689e29" /><img width="1923" height="5200" alt="FoodDark5" src="https://github.com/user-attachments/assets/cc56abbe-44a6-461d-a604-ac69f69b4b4e" />
 
+### 🍵 Soups & Salads
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="4841" alt="screencapture-localhost-5173-menu-2025-09-06-11_17_05" src="https://github.com/user-attachments/assets/ee8804b5-5eda-4e88-ba7d-4498f066ab04" /></td>
+    <td><img width="1923" height="4841" alt="screencapture-localhost-5173-menu-2025-09-06-11_15_52" src="https://github.com/user-attachments/assets/8c54cd1e-cbb9-4e45-9d3c-c852610cd177" /></td>
+  </tr>
+</table>
 
+---
 
+### 🍛 Main Courses
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="3320" alt="screencapture-localhost-5173-menu-2025-09-06-11_18_17" src="https://github.com/user-attachments/assets/a6b9bba9-0096-4665-b039-e3fff642ede8" /></td>
+    <td><img width="1923" height="3320" alt="screencapture-localhost-5173-menu-2025-09-06-11_19_04" src="https://github.com/user-attachments/assets/d5ec397a-314e-4b0b-b3b7-163be69e5167" /></td>
+  </tr>
+</table>
 
-| Bar Menu (Light)  | Bar Menu (Dark) |
-|-------------------|-----------------|
-| ![Home Light](./screenshots/homepage-light.png) | ![Home Dark](./screenshots/homepage-dark.png) |
+---
 
+### 🍚 Rice & Biryani
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="4781" alt="screencapture-localhost-5173-menu-2025-09-06-11_20_38" src="https://github.com/user-attachments/assets/ae53c443-3b55-4f60-8ef6-d9149e80e0de" /></td>
+    <td><img width="1923" height="4781" alt="screencapture-localhost-5173-menu-2025-09-06-11_19_57" src="https://github.com/user-attachments/assets/d4ca5140-860d-4564-8bc2-b87a1150ff0a" /></td>
+  </tr>
+</table>
+
+---
+
+### 🫓 Breads
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="4751" alt="screencapture-localhost-5173-menu-2025-09-06-11_21_30" src="https://github.com/user-attachments/assets/e3c5b669-d353-492e-bb40-791c1023b3d6" /></td>
+    <td><img width="1923" height="4751" alt="screencapture-localhost-5173-menu-2025-09-06-11_22_20" src="https://github.com/user-attachments/assets/eebfcb86-cc23-449b-a037-6bb3867067dc" /></td>
+  </tr>
+</table>
+
+---
+
+### 🍨 Desserts
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="5496" alt="screencapture-localhost-5173-menu-2025-09-06-11_24_10" src="https://github.com/user-attachments/assets/faf6791e-5fa7-4b34-aa3d-931f8d2442e9" /></td>
+    <td><img width="1923" height="5496" alt="screencapture-localhost-5173-menu-2025-09-06-11_25_06" src="https://github.com/user-attachments/assets/28656fcc-e1a2-4a0c-b158-7fd980cef64c" /></td>
+  </tr>
+</table>
+
+---
+
+## 🍹 Bar Menu
+
+### 🍸 Cocktails
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="4006" alt="screencapture-localhost-5173-menu-2025-09-06-11_34_22" src="https://github.com/user-attachments/assets/d6e034d7-68e6-4a48-8d68-2457f2218e9b" /></td>
+    <td><img width="1923" height="4006" alt="screencapture-localhost-5173-menu-2025-09-06-11_35_29" src="https://github.com/user-attachments/assets/f5bb81e8-6cf2-48ca-8ba1-3f5ad636374b" /></td>
+  </tr>
+</table>
+
+### 🍹 Mocktails
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="4006" alt="screencapture-localhost-5173-menu-2025-09-06-11_36_55" src="https://github.com/user-attachments/assets/c0fa6c7a-2f7a-4ba6-abad-42e1e515ac15" /></td>
+    <td><img width="1923" height="4006" alt="screencapture-localhost-5173-menu-2025-09-06-11_36_25" src="https://github.com/user-attachments/assets/a4832bc2-03e0-498b-be9a-804543985a62" /></td>
+  </tr>
+</table>
+
+### 🍷 Wines
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="2635" alt="screencapture-localhost-5173-menu-2025-09-06-11_37_41" src="https://github.com/user-attachments/assets/66da61f3-59c5-4545-b63c-5e71572268eb" /></td>
+    <td><img width="1923" height="2635" alt="screencapture-localhost-5173-menu-2025-09-06-11_38_40" src="https://github.com/user-attachments/assets/29b20320-b980-43c3-b464-7bbbf2dfd6cc" /></td>
+  </tr>
+</table>
+
+### 🍺 Beers
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="3320" alt="screencapture-localhost-5173-menu-2025-09-06-11_40_24" src="https://github.com/user-attachments/assets/df7d3d8f-9822-4f37-8fd4-4b626092e49f" /></td>
+    <td><img width="1923" height="3320" alt="screencapture-localhost-5173-menu-2025-09-06-11_40_58" src="https://github.com/user-attachments/assets/60fbc080-c975-4d39-9b7b-ce67c65e7258" /></td>
+  </tr>
+</table>
+
+### 🥃 Spirits
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="4006" alt="screencapture-localhost-5173-menu-2025-09-06-11_42_37" src="https://github.com/user-attachments/assets/e722f8e9-6e6d-43a7-b68c-d9a6fe1eb2df" /></td>
+    <td><img width="1923" height="4006" alt="screencapture-localhost-5173-menu-2025-09-06-11_41_47" src="https://github.com/user-attachments/assets/07fc717e-8641-4927-934f-e2a157aaf8dd" /></td>
+  </tr>
+</table>
+
+### ☕ Hot Beverages
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="2665" alt="screencapture-localhost-5173-menu-2025-09-06-11_43_27" src="https://github.com/user-attachments/assets/cce03a60-094f-4840-ba85-e134e8e3f02c" /></td>
+    <td><img width="1923" height="2665" alt="screencapture-localhost-5173-menu-2025-09-06-11_44_09" src="https://github.com/user-attachments/assets/e5d4d583-17e0-425c-9f21-f19a7dfdb819" /></td>
+  </tr>
+</table>
+
+### 🧃 Fresh Juices
+<table>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img width="1923" height="3260" alt="screencapture-localhost-5173-menu-2025-09-06-11_45_38" src="https://github.com/user-attachments/assets/4ca414a1-7403-4b3f-8014-f0e7798edccc" /></td>
+    <td><img width="1923" height="3260" alt="screencapture-localhost-5173-menu-2025-09-06-11_44_51" src="https://github.com/user-attachments/assets/b5a3ca77-ae56-47ad-a39e-5c057a533bd1" /></td>
+  </tr>
+</table>
+
+ 
 ---
 
 | Reserve Table (Light) | Reserve Table (Dark) |
