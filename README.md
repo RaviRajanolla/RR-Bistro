@@ -616,3 +616,19 @@ Below are side-by-side previews of the main pages.
 |<img width="1923" height="1439" alt="SignUp" src="https://github.com/user-attachments/assets/38733d9b-76de-440f-8349-45a3b6305a4d" />|<img width="1923" height="1439" alt="SignUpDark" src="https://github.com/user-attachments/assets/7db037ad-fde4-4c3a-90ee-c3400f518804" />|
 
 ---
+
+<p align="center">
+  <b>A Fullstack Restaurant & Bar Ordering Platform — crafted for Dining, Events, and Corporate Meets</b>
+</p>
+
+<div align="center" style="background-color:#f8f9fa; padding:15px; border-radius:10px;">
+
+  <a href="https://github.com/your-username">
+    <img alt="Built by Ravi Rajanolla" src="https://img.shields.io/badge/Built%20by-Ravi%20Rajanolla-e63946">
+  </a>
+  <img alt="RR Bistro" src="https://img.shields.io/badge/Project-RR%20Bistro-2a9d8f">
+  <img alt="Tech Stack" src="https://img.shields.io/badge/Stack-Fullstack%20Website-264653"> 
+  <img alt="Modes" src="https://img.shields.io/badge/Modes-Light%20🌞%20|%20Dark%20🌙-457b9d">
+
+</div>
+
